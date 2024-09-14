@@ -1,4 +1,4 @@
-const leetcodeProblems = [
+export const leetcodeProblems = [
     { title: "Two Sum", url: "https://leetcode.com/problems/two-sum/" },
     { title: "Add Two Numbers", url: "https://leetcode.com/problems/add-two-numbers/" },
     { title: "Longest Substring Without Repeating Characters", url: "https://leetcode.com/problems/longest-substring-without-repeating-characters/" },
